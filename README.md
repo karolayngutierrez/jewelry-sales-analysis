@@ -18,7 +18,6 @@ Desarrollar un tablero interactivo que permita transformar los datos de ventas e
 
 - Power BI
 - Power Query
-- DAX
 - Microsoft Excel
 
 ---
@@ -26,8 +25,6 @@ Desarrollar un tablero interactivo que permita transformar los datos de ventas e
 ## Habilidades demostradas
 
 - Limpieza y transformación de datos
-- Modelado de datos
-- Creación de medidas con DAX
 - Diseño de dashboards
 - Visualización de datos
 - Análisis de indicadores (KPIs)
